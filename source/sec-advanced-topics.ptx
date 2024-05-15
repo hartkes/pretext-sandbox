@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-advanced-topics" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Advanced Topics</title>
+
+    <introduction>
+        <p>
+            This is the introduction of the section.
+        </p>
+    </introduction>
+    Does text need to be in a paragraph?
+
+    <p>
+        This is the first paragraph.
+    </p>
+
+    
+
+</section>
